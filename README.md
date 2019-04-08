@@ -4,6 +4,7 @@ A compatibility-based "FriendFinder" application -- basically a dating app. This
 This app is deployed on Heroku: https://frozen-earth-52194.herokuapp.com/
 
 Open App and click on Start Survey: 
+<img width="639" alt="Screen Shot 2019-04-06 at 1 00 04 PM" src="https://user-images.githubusercontent.com/42286091/55749888-16ccae00-5a10-11e9-8c21-a91c8f86f433.png">
 
 
 App requires you to enter URl of photo:
