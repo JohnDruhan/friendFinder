@@ -6,3 +6,7 @@ This app is deployed on Heroku: https://frozen-earth-52194.herokuapp.com/
 Open App and click on Start Survey: 
 
 
+App requires you to enter URl of photo:
+<img width="760" alt="Screen Shot 2019-04-06 at 1 00 52 PM" src="https://user-images.githubusercontent.com/42286091/55749776-cce3c800-5a0f-11e9-9f28-64267ad8017d.png">
+
+
